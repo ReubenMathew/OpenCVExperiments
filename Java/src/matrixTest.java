@@ -13,8 +13,6 @@ public class matrixTest {
 		
 		System.out.println(matrix.dump());
 		
-		
-		
 	}
 
 }
